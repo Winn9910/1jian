@@ -17,7 +17,7 @@ Server
 ### Install
 
 ```Bash
-wget --no-check-certificate https://raw.githubusercontent.com/Winn9910/1jian/install-frps.sh -O ./install-frps.sh
+wget --no-check-certificate https://github.com/Winn9910/1jian/install-frps.sh -O ./install-frps.sh
 chmod 700 ./install-frps.sh
 ./install-frps.sh install
 ```
